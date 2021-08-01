@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandagzampieri
-- 👀 I’m interested in literature, books, translation, languages, coding, Data Science, etc.
-- 🌱 I’m currently learning German and Data Science.
+- 👀 I’m interested in literature, books, translation, languages, coding, Data Sciences, etc.
+- 🌱 I’m currently learning German and Data Sciences.
 - 💞️ I’m looking to collaborate on beginner's level projects.
 - 📫 How to reach me amanda dot zampieri at gmail. 
 
